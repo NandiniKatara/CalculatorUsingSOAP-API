@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nandini.k_int1594\\Desktop\\dotnetAssignments\\NewUsersPortal\\CalculatorUsingSOAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFABE47-12B7-4B4C-9FB1-715D8D58E8DF}|CalculatorUsingSOAP.csproj|c:\\users\\nandini.k_int1594\\desktop\\dotnetassignments\\newusersportal\\calculatorusingsoap\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFABE47-12B7-4B4C-9FB1-715D8D58E8DF}|CalculatorUsingSOAP.csproj|solutionrelative:services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFABE47-12B7-4B4C-9FB1-715D8D58E8DF}|CalculatorUsingSOAP.csproj|c:\\users\\nandini.k_int1594\\desktop\\dotnetassignments\\newusersportal\\calculatorusingsoap\\models\\calculationservicecontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFABE47-12B7-4B4C-9FB1-715D8D58E8DF}|CalculatorUsingSOAP.csproj|solutionrelative:models\\calculationservicecontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFABE47-12B7-4B4C-9FB1-715D8D58E8DF}|CalculatorUsingSOAP.csproj|c:\\users\\nandini.k_int1594\\desktop\\dotnetassignments\\newusersportal\\calculatorusingsoap\\models\\calculationdatacontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFABE47-12B7-4B4C-9FB1-715D8D58E8DF}|CalculatorUsingSOAP.csproj|solutionrelative:models\\calculationdatacontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFABE47-12B7-4B4C-9FB1-715D8D58E8DF}|CalculatorUsingSOAP.csproj|c:\\users\\nandini.k_int1594\\desktop\\dotnetassignments\\newusersportal\\calculatorusingsoap\\controllers\\calculationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFABE47-12B7-4B4C-9FB1-715D8D58E8DF}|CalculatorUsingSOAP.csproj|solutionrelative:controllers\\calculationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFABE47-12B7-4B4C-9FB1-715D8D58E8DF}|CalculatorUsingSOAP.csproj|c:\\users\\nandini.k_int1594\\desktop\\dotnetassignments\\newusersportal\\calculatorusingsoap\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFABE47-12B7-4B4C-9FB1-715D8D58E8DF}|CalculatorUsingSOAP.csproj|solutionrelative:connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFABE47-12B7-4B4C-9FB1-715D8D58E8DF}|CalculatorUsingSOAP.csproj|c:\\users\\nandini.k_int1594\\desktop\\dotnetassignments\\newusersportal\\calculatorusingsoap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFABE47-12B7-4B4C-9FB1-715D8D58E8DF}|CalculatorUsingSOAP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFABE47-12B7-4B4C-9FB1-715D8D58E8DF}|CalculatorUsingSOAP.csproj|c:\\users\\nandini.k_int1594\\desktop\\dotnetassignments\\newusersportal\\calculatorusingsoap\\calculatorusingsoap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BCFABE47-12B7-4B4C-9FB1-715D8D58E8DF}|CalculatorUsingSOAP.csproj|solutionrelative:calculatorusingsoap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\nandini.k_int1594\\Desktop\\dotnetAssignments\\NewUsersPortal\\CalculatorUsingSOAP\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeDocumentMoniker": "Connected Services\\ServiceReference1\\Reference.cs",
+              "ToolTip": "C:\\Users\\nandini.k_int1594\\Desktop\\dotnetAssignments\\NewUsersPortal\\CalculatorUsingSOAP\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeToolTip": "Connected Services\\ServiceReference1\\Reference.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAiwFAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:51:35.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculationsController.cs",
+              "DocumentMoniker": "C:\\Users\\nandini.k_int1594\\Desktop\\dotnetAssignments\\NewUsersPortal\\CalculatorUsingSOAP\\Controllers\\CalculationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CalculationsController.cs",
+              "ToolTip": "C:\\Users\\nandini.k_int1594\\Desktop\\dotnetAssignments\\NewUsersPortal\\CalculatorUsingSOAP\\Controllers\\CalculationsController.cs",
+              "RelativeToolTip": "Controllers\\CalculationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:46:11.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nandini.k_int1594\\Desktop\\dotnetAssignments\\NewUsersPortal\\CalculatorUsingSOAP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nandini.k_int1594\\Desktop\\dotnetAssignments\\NewUsersPortal\\CalculatorUsingSOAP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:38:39.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\nandini.k_int1594\\Desktop\\dotnetAssignments\\NewUsersPortal\\CalculatorUsingSOAP\\Services\\CalculationService.cs",
+              "RelativeDocumentMoniker": "Services\\CalculationService.cs",
+              "ToolTip": "C:\\Users\\nandini.k_int1594\\Desktop\\dotnetAssignments\\NewUsersPortal\\CalculatorUsingSOAP\\Services\\CalculationService.cs",
+              "RelativeToolTip": "Services\\CalculationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:31:14.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculatorUsingSOAP",
+              "DocumentMoniker": "C:\\Users\\nandini.k_int1594\\Desktop\\dotnetAssignments\\NewUsersPortal\\CalculatorUsingSOAP\\CalculatorUsingSOAP.csproj",
+              "RelativeDocumentMoniker": "CalculatorUsingSOAP.csproj",
+              "ToolTip": "C:\\Users\\nandini.k_int1594\\Desktop\\dotnetAssignments\\NewUsersPortal\\CalculatorUsingSOAP\\CalculatorUsingSOAP.csproj",
+              "RelativeToolTip": "CalculatorUsingSOAP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T06:30:42.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationServiceContract.cs",
+              "DocumentMoniker": "C:\\Users\\nandini.k_int1594\\Desktop\\dotnetAssignments\\NewUsersPortal\\CalculatorUsingSOAP\\Models\\CalculationServiceContract.cs",
+              "RelativeDocumentMoniker": "Models\\CalculationServiceContract.cs",
+              "ToolTip": "C:\\Users\\nandini.k_int1594\\Desktop\\dotnetAssignments\\NewUsersPortal\\CalculatorUsingSOAP\\Models\\CalculationServiceContract.cs",
+              "RelativeToolTip": "Models\\CalculationServiceContract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:26:40.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculationDataContract.cs",
+              "DocumentMoniker": "C:\\Users\\nandini.k_int1594\\Desktop\\dotnetAssignments\\NewUsersPortal\\CalculatorUsingSOAP\\Models\\CalculationDataContract.cs",
+              "RelativeDocumentMoniker": "Models\\CalculationDataContract.cs",
+              "ToolTip": "C:\\Users\\nandini.k_int1594\\Desktop\\dotnetAssignments\\NewUsersPortal\\CalculatorUsingSOAP\\Models\\CalculationDataContract.cs",
+              "RelativeToolTip": "Models\\CalculationDataContract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:24:02.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
